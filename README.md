@@ -1,5 +1,6 @@
-I like ricing linux and being hot
-Aspiring gamedev :3
+# About Me
+- I like ricing linux and being hot
+- Aspiring gamedev :3
 
 <!---
 googl267/googl267 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
